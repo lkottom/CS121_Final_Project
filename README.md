@@ -45,7 +45,7 @@ The data for this project includes information about military equipment, manufac
 2. Navigate to the directory containing the files
 3. Run the command:
    ```
-   python app_client.py
+   python3 app_client.py
    ```
 4. You can either create a new customer account or log in with an existing account from the list below with password "password123"
 5. As a customer, you can:
@@ -78,7 +78,7 @@ All customer accounts use the password: **password123**
 2. Navigate to the directory containing the files
 3. Run the command:
    ```
-   python app_admin.py
+   python3 app_admin.py
    ```
 4. Login using one of the manufacturer emails from the list below with password "password123"
 5. As a manufacturer, you can:
@@ -168,6 +168,7 @@ These accounts can only log in to the admin application (`app_admin.py`):
 4. View order history to check order status
 
 ## Notes
+- **Important:** A complete list of all equipment available for manufacturing is provided in the PDF file: `equipment_to_manufacturer.pdf`. This provides the data on which manufacturer makes which piece of equipment (useful for referencing which manufacturer to log in as to approve a specific order) 
 - Administrator accounts are pre-configured in the database and cannot be created manually.
 - All passwords are encrypted using MySQL's password hashing functions.
 - When an order is rejected, the system automatically returns the stock to the inventory through a database trigger.
@@ -183,3 +184,12 @@ These accounts can only log in to the admin application (`app_admin.py`):
 - `grant-permissions.sql`: Give the client and admin proper permissions
 
 ## Future Work
+
+If we had more time, we would focus on the following improvements:
+
+- **User Verification System**: We would like to implement a verification process requiring official government credentials to ensure that only legitimate users can create accounts and access the platform. Our current system automatically verifies every user (after they create an account) and this addition would improve security. 
+
+- **Expanding the Web Scraper**: We also would like to extend our web scraper to also pull images of military equipment from Wikipedia. These images could then be placed into our database and displayed in the application. We think this would be a very neat addition and would be helpful when selecting the right equipment.
+
+- **Enhanced Sales Analytics**: We also want to implement improved sales statistics features by providing more detailed breakdowns for the sales by each company (in the admin application). Right now we are only displaying total say and this feature would all manufacturers to view sales by specific timeframes such as last month, week, or day. This option would allow them to have better data and make better predictions on what equipment is doing well. 
+

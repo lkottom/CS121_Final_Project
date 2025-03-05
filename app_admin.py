@@ -259,7 +259,8 @@ def display_details():
                 print(f"Function: {specialty}")
                 print(f"Description: {description}")
                 print(f"Price: ${price:,.2f}")
-                print(f"Stock: {stock}")
+                print(f"Stock: {stock}\n")
+
     # Error handling
     except mysql.connector.Error as err:
         if DEBUG:
@@ -743,7 +744,7 @@ def display_equipment_by_sales():
                 if units is None:
                     units = 0
                     revenue = 0
-                print(f"Equipment: {name} | Category: {category} | Units Sold: {units} | Total Revenue: ${revenue}")
+                print(f"Equipment: {name} | Category: {category} | Units Sold: {units} | Total Revenue: ${revenue:,.2f}")
                 
     except mysql.connector.Error as err:
         if DEBUG:

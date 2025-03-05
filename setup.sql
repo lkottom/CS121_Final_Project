@@ -169,8 +169,8 @@ SELECT
 FROM orders o
 JOIN equipment e ON o.equipment_id = e.equipment_id;
 
-EXPLAIN SELECT * FROM equipment WHERE price_usd BETWEEN 10000000 AND 50000000;
+-- EXPLAIN SELECT * FROM equipment WHERE price_usd BETWEEN 10000000 AND 50000000;
 
-CREATE INDEX idx_equipment_price ON equipment(price_usd);
+-- CREATE INDEX idx_equipment_price ON equipment(price_usd);
 
-EXPLAIN SELECT * FROM equipment WHERE price_usd BETWEEN 10000000 AND 50000000;
+-- EXPLAIN SELECT * FROM equipment WHERE price_usd BETWEEN 10000000 AND 50000000;
