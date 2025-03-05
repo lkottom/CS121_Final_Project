@@ -169,10 +169,10 @@ These accounts can only log in to the admin application (`app_admin.py`):
 
 ## Notes
 - **Important:** A complete list of all equipment available for manufacturing is provided in the PDF file: `equipment_to_manufacturer.pdf`. This provides the data on which manufacturer makes which piece of equipment (useful for referencing which manufacturer to log in as to approve a specific order) 
-- Administrator accounts are pre-configured in the database and cannot be created manually.
+- Administrator accounts are pre-configured in the database and cannot be created manually (can add this functionality in future iterations).
 - All passwords are encrypted using MySQL's password hashing functions.
-- When an order is rejected, the system automatically returns the stock to the inventory through a database trigger.
-- The system implements proper authentication and authorization controls to ensure security.
+- When an order is rejected, the system automatically returns the stock to the inventory through a database trigger that we made.
+- The system makes sure to set up and check for proper authentication controls to make sure the security of the database is strong.
 
 ## File Structure
 - `app_client.py`: Client-side application for customers
