@@ -1,0 +1,57 @@
+Fairchild: fairchild@example.com
+Sierra Nevada Corporation: sierranevadacorporation@example.com
+Lockheed Martin: lockheedmartin@example.com
+Rockwell International: rockwellinternational@example.com
+Northrop Grumman: northropgrumman@example.com
+Boeing: boeing@example.com
+Beechcraft: beechcraft@example.com
+De Havilland Canada: dehavillandcanada@example.com
+McDonnell Douglas & Boeing: mcdonnelldouglas&boeing@example.com
+Learjet: learjet@example.com
+Gulfstream: gulfstream@example.com
+CASA: casa@example.com
+Bell & Boeing: bell&boeing@example.com
+McDonnell Douglas: mcdonnelldouglas@example.com
+General Dynamics: generaldynamics@example.com
+Sikorsky: sikorsky@example.com
+AgustaWestland: agustawestland@example.com
+General Atomics: generalatomics@example.com
+Composite Engineering: compositeengineering@example.com
+Bombardier: bombardier@example.com
+AeroVironment: aerovironment@example.com
+DZYNE Technologies: dzynetechnologies@example.com
+Raytheon: raytheon@example.com
+Cessna: cessna@example.com
+Cirrus: cirrus@example.com
+Raytheon & Beechcraft: raytheon&beechcraft@example.com
+Boeing & Saab: boeing&saab@example.com
+Bell: bell@example.com
+Pilatus: pilatus@example.com
+Alenia Aeronautica: aleniaaeronautica@example.com
+Mil Moscow Helicopter Plant: milmoscowhelicopterplant@example.com
+Airbus Eurocopter: airbuseurocopter@example.com
+Prioria Robotics: prioriarobotics@example.com
+MMIST: mmist@example.com
+FLIR: flir@example.com
+Airbus: airbus@example.com
+Bell Boeing: bellboeing@example.com
+Kaman: kaman@example.com
+Boeing Insitu: boeinginsitu@example.com
+Skydio: skydio@example.com
+McDonnell Douglas, Northrop Grumman & Boeing: mcdonnelldouglas,northropgrumman&boeing@example.com
+BAE Systems: baesystems@example.com
+Various: various@example.com
+Elbit Systems: elbitsystems@example.com
+L3Harris: l3harris@example.com
+Textron: textron@example.com
+Navistar: navistar@example.com
+Oshkosh Defense: oshkoshdefense@example.com
+Force Protection: forceprotection@example.com
+AM General: amgeneral@example.com
+GM Defense: gmdefense@example.com
+Polaris: polaris@example.com
+Hagglunds: hagglunds@example.com
+Caterpillar: caterpillar@example.com
+Aardvark Clear Mine Ltd: aardvarkclearmineltd@example.com
+DCD Protected Mobility: dcdprotectedmobility@example.com
+Hydrema: hydrema@example.com

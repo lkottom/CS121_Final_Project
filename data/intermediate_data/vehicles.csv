@@ -1,0 +1,68 @@
+,Type,Caliber,Role,Origin,Inventory,Notes
+0,M109A6 Paladin,155 mmL/39,Self-propelled howitzer,United States,1250,
+1,M109A7,155 mmL/39,Self-propelled howitzer,United States,271,689 more on order.
+2,M992A3,155 mm,Field artillery ammunition supply vehicle,United States,Unknown,
+3,"Towed Artillery (1,878)","Towed Artillery (1,878)","Towed Artillery (1,878)","Towed Artillery (1,878)","Towed Artillery (1,878)","Towed Artillery (1,878)"
+4,M119,105 mmL/30.5,Towed howitzer,United Kingdom  United States,878,M119A2/3.
+5,M777,155 mmL/39,Towed howitzer,United Kingdom  United States,1000,M777A2.
+6,"Rocket Artillery (1,531)","Rocket Artillery (1,531)","Rocket Artillery (1,531)","Rocket Artillery (1,531)","Rocket Artillery (1,531)","Rocket Artillery (1,531)"
+7,M270,227 mm 240 mm 610 mm 430 mm (future),Multiple launch rocket system,United States,991,"M270A1/A2.[34] Armored, self-propelled, multiple rocket launcher."
+8,M142 HIMARS,227 mm 610 mm 240 mm (future) 430 mm (future),Multiple launch rocket system,United States,540,M270 pod mounted on a standard Army Medium Tactical Vehicle (MTV) truck frame.
+9,"Mortars (2,507 active)[34]","Mortars (2,507 active)[34]","Mortars (2,507 active)[34]","Mortars (2,507 active)[34]","Mortars (2,507 active)[34]","Mortars (2,507 active)[34]"
+10,Cardom,81 mm/120 mm,"Recoil mortar system, mortar carrier",Israel  United States,"441 (345 M1129, 96 M1252)[34]",Mounted on Stryker[35] M1129 MCV-B M1252 MCVV (variant with double V-hull)
+11,M1287 mortar carrier vehicle,120 mm,Mortar carrier,Israel  United States,386 planned[36][37],"System mounted on AMPV, replacing the M1064, 69 rounds in storage[38]"
+12,XM905 advanced mortar protection system,120 mm,Mortar turret module,United States,Unknown,Used at forward operating bases in Syria[39]
+13,M224[40],60 mm,Dismounted mortar,United States,Unknown,
+14,M252,81 mm,Dismounted mortar,United Kingdom,990[34],
+15,M120[41],120 mm,Dismounted mortar / mortar carrier,Israel,"1,076[34]","Includes the M1064, 81 mm equipped"
+16,"Air defense systems (1,187+ active)[34]","Air defense systems (1,187+ active)[34]","Air defense systems (1,187+ active)[34]","Air defense systems (1,187+ active)[34]","Air defense systems (1,187+ active)[34]","Air defense systems (1,187+ active)[34]"
+17,Centurion,20×102 mm,C-RAM with rotary cannon system,United States,Unknown,Trailer-mounted version of the Phalanx CIWS
+18,AN/TWQ-1,70 mm,Self-propelled SHORAD,United States,453[34],System mounted on HMMWV
+19,M-SHORAD,"180 mm 70 mm 30×113 mm, 7.62×51 mm NATO",Self-propelled SHORAD,United States  Italy,144 planned in 2018;[42] 80 estimated active in 2023[34],"System mounted on Stryker A1, system made by Leonardo DRS.[43] Reconfigurable Integrated-weapons Platform (RIwP) equipped with: FIM-92 Stinger pod AGM-114 Hellfire pod M230LF chain gun M240 coaxial machine gun"
+20,MIM-104,410 mm,"Mobile, long-range surface-to-air missile with anti-ballistic missile capability",United States,480[34],
+21,THAAD,340 mm / 370 mm,"Mobile, long-range anti-ballistic missile",United States,42[34],
+22,M1 Abrams,120 mm,Main battle tank,United States,2645,"8,100 total (active + reserve)"
+23,M10 Booker,105 mm,Armored infantry support vehicle,United States,Unknown amount delivered in 2024 122+ on order,12 MPF prototypes delivered.[44] First of original 96 M10 ordered delivered in April 2024.[45] 122 LRIP M10 on order. Unknown amount ordered in August 2024 [46] [47] 504 M10 planned in total.[48] To enter active service in summer 2025.[49]
+24,Infantry Fighting Vehicles,Infantry Fighting Vehicles,Infantry Fighting Vehicles,Infantry Fighting Vehicles,Infantry Fighting Vehicles,Infantry Fighting Vehicles
+25,M1120 Stryker,,Armored personnel carrier –infantry fighting vehicle hybrid,Canada / United States,"4383 total across all variants, of which 169 donated to Ukraine, 4214 remain in service (see details)","545 M1127 Stryker RV[34] 83 M1296 Stryker Dragoon[34] 7 Stryker MCWS in testing[34] 1,218 M1126 Stryker ICV[34] 465 M1256A1 Stryker ICV[34] 261 M1130 Stryker CV[34] 87 M1255A1 Stryker CV[34] 151 M1131 Stryker FSV[34] 37 M1251A1 Stryker FSV[34] 203 M1133 Stryker MEV[34] 101 M1254A1 Stryker MEV[34] 136 M1132 Stryker ESV[34] 32 M1257A1 Stryker ESV[34] 234 M1135 Stryker NBCRV[34] 110 M1134 Stryker ATGM[34] 23 M1253A1 Stryker ATGM[34] 345 M1129 Stryker MC[34] 96 M1252A1 Stryker MC[34] 80 M-SHORAD estimated[34] 169 donated to Ukraine[50]"
+26,M2 Bradley,25 mm/152 mm,Infantry fighting vehicle,United States,"2,100 M2A2/A3 and 210 M2A4 estimated active[34] 2,000 M2 estimated in storage[34]",
+27,M3 Bradley,25 mm/152 mm,Reconnaissance infantry fighting vehicle,United States,"1,200 M3A2/A3 estimated active[34] 800 M3 estimated in storage[34]",
+28,Armoured Personnel Carriers,Armoured Personnel Carriers,Armoured Personnel Carriers,Armoured Personnel Carriers,Armoured Personnel Carriers,Armoured Personnel Carriers
+29,Armored Ground Mobility System,,Armored Ground Mobility System,Austria,50,"Used by Delta Force Purchased for the US Army (50, produced by AV Technology as the Armored Ground Mobility System for USASOC Special Forces/Special Operations Forces units)"
+30,Armored Multi-Purpose Vehicle,,Armored personnel carrier,United Kingdom United States,276[51],2907 planned in all variants[37] 522 M1283 General Purpose 790 M1284 Medical Evacuation 216 M1285 Medical Treatment 993 M1286 Mission Command 386 M1287 Mortar Carrier
+31,M113,,Armored personnel carrier,United States,"4,700[34]","8,000 more in store[34]"
+32,M1117,,Armored personnel carrier,United States,1837,
+33,Mine Resistant Ambush Protected Vehicles,Mine Resistant Ambush Protected Vehicles,Mine Resistant Ambush Protected Vehicles,Mine Resistant Ambush Protected Vehicles,Mine Resistant Ambush Protected Vehicles,Mine Resistant Ambush Protected Vehicles
+34,International MaxxPro,,Mine resistant ambush protected vehicle,United States,"2,934[34]",
+35,M-ATV,,Mine resistant ambush protected vehicle,United States,"5,651[52][34]",
+36,Buffalo,,Mine resistant ambush protected vehicle,United States,650,As of 2021.[53]
+37,Cougar,,Mine resistant ambush protected vehicle,United States,,As of 2023.[54]
+38,RG-31,,Mine resistant ambush protected vehicle,South Africa,516 operated by the Army as of 2015.[55],"1,679 under MRAP procurement and 570 ONS Army; at least 894 Mk5E are required for conversion into MMPV Type II by the Army[55] Still used as of 2024.[56]"
+39,RG-33,,Mine resistant ambush protected vehicle,South Africa,"2,386 (all services)[55]",712 will be retained by the Army as MMPV Type 1.[55]
+40,Light vehicles,Light vehicles,Light vehicles,Light vehicles,Light vehicles,Light vehicles
+41,High Mobility Multipurpose Wheeled Vehicle,,Light utility vehicle,United States,"~125,000",Around 40% of those remaining in service are armored; the armored HMMWVs in service are to be replaced by the JLTV.
+42,Joint Light Tactical Vehicle,,Light utility vehicle,United States,"12,500 estimated[34]","Will partially replace the Humvee. Oshkosh Defense was awarded the JLTV contract in 2015 for up to 16,901 JLTVs. The procurement objective is 49,099 for the U.S. Army[57]"
+43,M1288 GMV 1.1,,Light utility vehicle,United States,,Replaces the Humvee-based Ground Mobility Vehicle in USSOCOM
+44,M1297 Army Ground Mobility Vehicle,,Light utility vehicle,United States,,
+45,M1301 Infantry Squad Vehicle,,Light utility vehicle,United States,649 (procurement objective),Based on Chevrolet Colorado ZR2 platform. Designed to provide greater mobility to Infantry Brigade Combat Teams.[58]
+46,Ranger Special Operations Vehicle,,Light utility vehicle,United Kingdom,60 (delivered),
+47,Logistics Vehicles,Logistics Vehicles,Logistics Vehicles,Logistics Vehicles,Logistics Vehicles,Logistics Vehicles
+48,Family of Medium Tactical Vehicles,,Military truck,United States,"108,800 (Active in all services)","Oshkosh Defense – >23,400 trucks/>11,400 trailers (current manufacturer). 74,000 trucks and trailers by legacy manufacturers. Figures include the National Guard and Air Force.[59]"
+49,Heavy Expanded Mobility Tactical Truck,,Military truck,United States,">27,000 (new build and remanufactured)[60]",Figures include National Guard and Air Force
+50,M1070 Heavy Equipment Transporter,,Military truck,United States,"4,079 (delivered; not all remain in service)[61]","2,488 M1070A0 tractors and >2,600 M1000 trailers delivered of which at least 1,009 tractors and >1000 trailers have been Reset. 1,591 M1070A1 delivered. Figures include the National Guard and Air Force."
+51,M939 series 5-ton 6×6 truck,,Military truck,United States,"25,000[59]",Intention is to replace with the Oshkosh FMTV. Figures include the National Guard and Air Force.
+52,Palletized Load System,,Military truck,United States,,
+53,Small Unit Support Vehicle,,All-terrain vehicle,Sweden UK,,Entered service in 2022. 110 to be procured.[62]
+54,Cold Weather All-Terrain Vehicles,,All-terrain vehicle,Sweden,,
+55,Engineering Vehicles,Engineering Vehicles,Engineering Vehicles,Engineering Vehicles,Engineering Vehicles,Engineering Vehicles
+56,M88 Hercules,,Armored recovery vehicle,United States,"933 M88A2 and 360 M88A1 active[34] 1,000 M88A1 in storage[34]",
+57,M9 Armored Combat Earthmover,,Combat engineering vehicle,United States,250[34],
+58,D9,,Armored bulldozer,United States /  Israel,,
+59,M60 Armoured Vehicle Launched Bridge,,Armored vehicle-launched bridge,United States,230 estimated[34],
+60,M104 Wolverine,,Armored vehicle-launched bridge,United States,40[34],
+61,M1074 Joint Assault Bridge System,,Armored vehicle-launched bridge,United States,104[34],
+62,M1150 Assault Breacher Vehicle,,Mine-clearing vehicle,United States,149[34],
+63,Aardvark JSFU,,Mine-clearing vehicle,United Kingdom,3+[34],
+64,Husky VMMD,,Mine-clearing vehicle,South Africa,Unknown[34],
+65,Hydrema MCV 910,,Mine-clearing vehicle,Denmark,3+[34],
+66,M58 Mine Clearing Line Charge,,Mine-clearing vehicle,United States,Unknown[34],

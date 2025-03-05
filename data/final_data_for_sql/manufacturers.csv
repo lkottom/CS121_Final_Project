@@ -1,0 +1,58 @@
+user_id,clearance_lvl
+1,Secret
+2,Secret
+3,Restricted
+4,Confidential
+5,Secret
+6,Top Secret
+7,Secret
+8,Confidential
+9,Top Secret
+10,Confidential
+11,Restricted
+12,Secret
+13,Top Secret
+14,Confidential
+15,Confidential
+16,Top Secret
+17,Top Secret
+18,Secret
+19,Restricted
+20,Confidential
+21,Secret
+22,Restricted
+23,Top Secret
+24,Confidential
+25,Top Secret
+26,Confidential
+27,Confidential
+28,Secret
+29,Secret
+30,Restricted
+31,Restricted
+32,Confidential
+33,Secret
+34,Confidential
+35,Confidential
+36,Restricted
+37,Top Secret
+38,Secret
+39,Secret
+40,Restricted
+41,Restricted
+42,Secret
+43,Top Secret
+44,Restricted
+45,Restricted
+46,Restricted
+47,Restricted
+48,Secret
+49,Top Secret
+50,Secret
+51,Confidential
+52,Restricted
+53,Top Secret
+54,Secret
+55,Secret
+56,Top Secret
+57,Restricted
