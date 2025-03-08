@@ -1,0 +1,135 @@
+# Military Vehicle Descriptions
+
+0. M109A6 Paladin: Self-propelled howitzer featuring a 155mm cannon with digital fire control system, onboard navigation, and the ability to receive fire missions, compute firing data, and position itself - all without external assistance, providing "shoot and scoot" capability.
+
+1. M109A7: Next-generation self-propelled howitzer replacing the M109A6 Paladin, featuring improved chassis, automotive systems, and power generation to support future networked capabilities and enhanced survivability.
+
+2. M992A3: Tracked armored ammunition carrier companion to the M109 self-propelled howitzer, designed to transport projectiles, propellant charges, and fuzes to resupply howitzers during combat operations.
+
+3. Towed Artillery (1,878): Collection of various towed artillery platforms that require a separate vehicle for movement, characterized by their mobility, deployability, and firepower in artillery support roles.
+
+4. M119: Lightweight 105mm towed howitzer designed for airborne, air assault, and mountain operations, featuring high mobility with helicopter transportability and ability to be broken down for transport by light vehicles.
+
+5. M777: Ultralight 155mm towed howitzer constructed with titanium and aluminum alloys, featuring digital fire control systems for improved accuracy and rapid deployment capability via helicopter lift.
+
+6. Rocket Artillery (1,531): Collection of vehicle-mounted multiple rocket launcher systems providing indirect fire support with high-volume firepower and various munition options for area suppression.
+
+7. M270: Tracked, armored multiple launch rocket system capable of launching 12 guided MLRS rockets or two Army Tactical Missile System (ATACMS) missiles with high mobility and protected crew compartment.
+
+8. M142 HIMARS: High Mobility Artillery Rocket System mounted on a wheeled chassis, providing a lighter, more deployable version of the M270's firepower with the ability to launch six MLRS rockets or one ATACMS missile.
+
+9. Mortars (2,507 active): Infantry support weapons providing high-angle indirect fire capability for close-range combat support, available in various calibers and deployment configurations.
+
+10. Cardom: Advanced recoil mortar system mounted on Stryker vehicles, featuring automated laying and loading systems, digital fire control, and rapid deployment capability for infantry fire support.
+
+11. M1287 mortar carrier vehicle: Tracked 120mm mortar platform based on the AMPV chassis, providing protected, mobile indirect fire support with improved crew protection and digital fire control systems.
+
+12. XM905 advanced mortar protection system: Automated 120mm mortar turret system designed for base defense operations, featuring remote operation capability and integrated fire control systems.
+
+13. M224: Lightweight 60mm infantry mortar system designed for dismounted operations, providing immediate indirect fire support to infantry units with high portability and rapid deployment.
+
+14. M252: Medium 81mm infantry mortar providing greater range and explosive power than 60mm systems while maintaining reasonable portability for infantry operations.
+
+15. M120: Heavy 120mm mortar system deployable in both ground-mounted and vehicle-mounted configurations, delivering significant explosive power for close infantry support.
+
+16. Air defense systems (1,187+ active): Varied collection of weapon systems designed to detect, track, and engage aerial threats including aircraft, helicopters, cruise missiles, and drones.
+
+17. Centurion: Land-based adaptation of the naval Phalanx Close-In Weapon System, using a rapid-fire 20mm cannon for Counter-Rocket, Artillery, and Mortar (C-RAM) defense of fixed installations.
+
+18. AN/TWQ-1: Self-propelled, lightweight air defense system mounted on a Humvee, armed with Stinger missiles to provide mobile short-range air defense for maneuver forces.
+
+19. M-SHORAD: Stryker-based Short Range Air Defense system featuring missiles, a 30mm cannon, and machine guns to counter air threats including unmanned aerial systems, rotary-wing, and fixed-wing aircraft.
+
+20. MIM-104: Patriot surface-to-air missile system providing medium to high-altitude air and missile defense with multi-target engagement capability and advanced radar systems.
+
+21. THAAD: Terminal High Altitude Area Defense system designed to shoot down short, medium, and intermediate-range ballistic missiles during their terminal phase using hit-to-kill technology.
+
+22. M1 Abrams: Main battle tank featuring composite armor, 120mm main gun, advanced fire control systems, and gas turbine engine, providing the backbone of U.S. armored warfare capability.
+
+23. M10 Booker: Light tank designed for infantry support operations, featuring a 105mm main gun on a mobile, protected platform to enhance infantry brigade combat capabilities.
+
+24. Infantry Fighting Vehicles: Category of armored combat vehicles designed to transport infantry into battle while providing direct fire support with organic weapon systems.
+
+25. M1120 Stryker: Family of eight-wheeled armored vehicles serving in various configurations from infantry carrier to reconnaissance, medical evacuation, and fire support, prioritizing mobility and deployability.
+
+26. M2 Bradley: Tracked infantry fighting vehicle armed with a 25mm chain gun, TOW missile launcher, and 7.62mm machine gun, providing both troop transport and direct fire support capabilities.
+
+27. M3 Bradley: Cavalry fighting vehicle variant of the M2 Bradley optimized for reconnaissance and security operations, with enhanced observation equipment and reduced troop carrying capacity.
+
+28. Armoured Personnel Carriers: Armored vehicles designed primarily for transporting infantry to the battlefield with protection from small arms fire and artillery fragments.
+
+29. Armored Ground Mobility System: Specialized light armored vehicle used by special operations forces for covert insertion and mobility in high-risk environments.
+
+30. Armored Multi-Purpose Vehicle: Family of tracked armored vehicles based on the Bradley Fighting Vehicle chassis, replacing the aging M113 in various battlefield roles including command post, medical evacuation, and general purpose transport.
+
+31. M113: Legacy tracked armored personnel carrier introduced in the 1960s, serving in numerous variants from basic troop transport to command post, mortar carrier, and ambulance roles.
+
+32. M1117: Wheeled armored security vehicle featuring a turret-mounted 40mm grenade launcher and .50 caliber machine gun, providing protected mobility for military police and security operations.
+
+33. Mine Resistant Ambush Protected Vehicles: Category of vehicles designed with V-shaped hulls and elevated chassis to mitigate effects of IED blasts, prioritizing crew survivability in asymmetric warfare.
+
+34. International MaxxPro: MRAP vehicle featuring V-shaped hull design, armor protection, and elevated chassis, used primarily for troop transport in environments with mine and IED threats.
+
+35. M-ATV: Mine Resistant Ambush Protected All-Terrain Vehicle combining MRAP protection levels with off-road mobility for operations in challenging terrain like Afghanistan.
+
+36. Buffalo: Heavy MRAP vehicle specialized for route clearance operations, featuring an articulated arm and claw for examining and removing suspected explosive devices.
+
+37. Cougar: Family of MRAP vehicles available in 4x4 and 6x6 configurations, providing protected transport for troops, command and control, and EOD operations in high-threat environments.
+
+38. RG-31: South African-designed MRAP vehicle adopted by U.S. forces, featuring V-shaped hull and modular armor for protection against mines and IEDs while transporting troops.
+
+39. RG-33: Enhanced MRAP vehicle with larger interior volume than the RG-31, providing protected mobility for various missions including troop transport, ambulance, and EOD support.
+
+40. Light vehicles: Category of non-armored or lightly armored tactical vehicles designed for reconnaissance, utility transport, and general mobility support.
+
+41. High Mobility Multipurpose Wheeled Vehicle (HMMWV/Humvee): Versatile 4x4 tactical vehicle serving in numerous roles from basic troop transport to weapons carrier, command vehicle, and ambulance.
+
+42. Joint Light Tactical Vehicle (JLTV): Next-generation light tactical vehicle replacing the Humvee, featuring enhanced protection, off-road mobility, and modular design for multiple mission configurations.
+
+43. M1288 GMV 1.1: Special Operations Command variant of the JLTV designed for enhanced mobility, payload capacity, and transportability for special operations missions.
+
+44. M1297 Army Ground Mobility Vehicle: Army variant of the GMV providing protected mobility for special operations and specialized infantry units with enhanced off-road capability.
+
+45. M1301 Infantry Squad Vehicle: Lightweight, air-droppable off-road vehicle based on the Chevrolet Colorado ZR2 chassis, designed to transport a nine-soldier infantry squad with their equipment.
+
+46. Ranger Special Operations Vehicle: Lightweight, highly mobile 4x4 vehicle used by special forces for reconnaissance, rapid assault, and extraction operations in challenging environments.
+
+47. Logistics Vehicles: Category of trucks and transport vehicles designed to move equipment, supplies, ammunition, and fuel to support military operations.
+
+48. Family of Medium Tactical Vehicles (FMTV): Standardized series of 2.5 and 5-ton capacity tactical trucks in various configurations for cargo, troop transport, and specialized equipment carrying roles.
+
+49. Heavy Expanded Mobility Tactical Truck (HEMTT): 8x8 heavy tactical truck with 10-ton payload capacity used for ammunition transport, refueling, recovery, and heavy equipment transport.
+
+50. M1070 Heavy Equipment Transporter: Combination of powerful tractor unit and specialized trailer designed to transport main battle tanks and other heavy military equipment over long distances.
+
+51. M939 series 5-ton 6×6 truck: Legacy 5-ton capacity military cargo truck used for transporting troops, equipment, and supplies in various tactical situations.
+
+52. Palletized Load System (PLS): Advanced logistics vehicle capable of self-loading and unloading standardized cargo containers without external equipment, enhancing distribution efficiency.
+
+53. Small Unit Support Vehicle: Tracked, amphibious vehicle designed for logistics support in extreme cold weather and challenging terrain where wheeled vehicles cannot operate.
+
+54. Cold Weather All-Terrain Vehicles: Specialized tracked vehicles designed specifically for operations in Arctic conditions, providing mobility and transport in snow, ice, and extreme cold.
+
+55. Engineering Vehicles: Category of specialized vehicles designed for combat engineering tasks including obstacle breaching, route clearance, and battlefield preparation.
+
+56. M88 Hercules: Armored recovery vehicle designed to recover damaged or disabled tanks and other heavy vehicles under combat conditions, featuring a powerful winch, crane, and towing capability.
+
+57. M9 Armored Combat Earthmover: Tracked bulldozer with armor protection, designed to construct fighting positions, clear obstacles, and prepare defensive positions under combat conditions.
+
+58. D9: Heavily armored version of the commercial Caterpillar D9 bulldozer, adapted for military use in clearing obstacles, preparing routes, and constructing defensive positions in combat zones.
+
+59. M60 Armoured Vehicle Launched Bridge: Tank chassis-based vehicle carrying a folding bridge that can be deployed to allow other vehicles to cross gaps up to 18 meters wide.
+
+60. M104 Wolverine: Heavy mechanized bridge system based on the M1 Abrams chassis, providing rapid gap-crossing capability for heavy forces with minimal exposure to enemy fire.
+
+61. M1074 Joint Assault Bridge System: Abrams-based bridge layer featuring improved bridge deployment systems and enhanced protection for the crew during bridging operations.
+
+62. M1150 Assault Breacher Vehicle: Combat engineering vehicle based on the M1 Abrams chassis, designed to clear minefields and complex obstacles using plows, explosive line charges, and other tools.
+
+63. Aardvark JSFU: Joint Service Flail Unit designed to safely detonate land mines by beating the ground with chains attached to a rotating drum, creating cleared paths through minefields.
+
+64. Husky VMMD: Vehicle Mounted Mine Detector using ground-penetrating radar and metal detectors to locate buried mines while providing operator protection against detonation effects.
+
+65. Hydrema MCV 910: Mine-clearing vehicle featuring a rotating flail system to detonate mines ahead of advancing forces, creating safe lanes through minefields.
+
+66. M58 Mine Clearing Line Charge: Trailer-mounted rocket system that deploys an explosive line charge to clear lanes through minefields by detonating or destroying mines in its path.

@@ -1,0 +1,355 @@
+# Aircraft Descriptions
+
+0. A-10C Thunderbolt II: Twin-engine, straight-wing jet aircraft designed for close air support, with a distinctive 30mm GAU-8 Avenger rotary cannon, known for its durability and ability to operate in low-altitude environments.
+
+1. A-29C Super Tucano: Light attack aircraft with counter-insurgency capabilities, featuring advanced avionics and weapons systems, used primarily for pilot training and light attack missions.
+
+2. AC-130J Ghostrider: Heavily armed ground-attack variant of the C-130 transport aircraft, equipped with precision strike capabilities and sophisticated sensor systems for close air support missions.
+
+3. B-1B Lancer: Supersonic variable-sweep wing heavy bomber with long-range capabilities, featuring an advanced electronic jamming system and the ability to deploy both conventional and nuclear weapons.
+
+4. B-2A Spirit: Strategic stealth bomber with flying wing design, capable of delivering both conventional and nuclear weapons, known for its low observable stealth technology.
+
+5. B-21 Raider: Next-generation stealth bomber designed to replace the B-2 Spirit and B-1 Lancer, featuring advanced stealth technology and the capability for both manned and unmanned operation.
+
+6. B-52H Stratofortress: Long-range, subsonic strategic bomber that has been in service since the 1950s, capable of carrying a wide range of weapons including nuclear bombs, cruise missiles, and precision-guided munitions.
+
+7. C-5M Super Galaxy: Strategic transport aircraft and one of the largest military aircraft in the world, used for carrying oversized cargo over intercontinental ranges.
+
+8. C-12C/D/F/J Huron: Military version of the Beechcraft King Air, used for utility transport, passenger and light cargo transport, and reconnaissance missions.
+
+9. C-130H Hercules: Four-engine turboprop military transport aircraft designed for troop, medical evacuation, and cargo transport, capable of operating from unprepared runways.
+
+10. C-130J Super Hercules/J-30 Super Hercules: Upgraded version of the C-130 with improved performance, featuring new engines, digital avionics, and increased cargo capacity.
+
+11. C-146A Wolfhound: Medium-sized, twin-engine transport aircraft used for special operations missions, capable of short takeoff and landing operations.
+
+12. C-147A: Light utility aircraft used by the U.S. Army Parachute Team for parachute demonstration missions.
+
+13. C-17A Globemaster III: Strategic airlifter used for rapid strategic airlift of troops and cargo to main operating bases or forward operating locations worldwide.
+
+14. C-21A Learjet 35: Twin-engine jet aircraft used for passenger and cargo airlift, aeromedical evacuation, and other priority missions.
+
+15. C-32A/B Air Force Two: Military passenger transport aircraft, a modified Boeing 757 primarily used to transport the Vice President and other high-ranking government officials.
+
+16. C-37A/B Gulfstream V: VIP transport aircraft based on the Gulfstream V business jet, used to transport high-ranking military and government officials.
+
+17. C-40B/C: Military version of the Boeing 737-700C used for transporting high-ranking military and government officials, with advanced communications capabilities.
+
+18. CN-235: Medium-range twin-engine transport aircraft used for special operations missions, with maritime patrol and surveillance capabilities.
+
+19. CV-22B Osprey: Tiltrotor aircraft combining the vertical takeoff, hover, and vertical landing capabilities of a helicopter with the speed and range of a turboprop aircraft, used primarily for special operations.
+
+20. E-3B/G Sentry (AWACS): Airborne Warning and Control System aircraft providing surveillance, command, control, and communications functions for tactical and air defense forces.
+
+21. E-4B (NAOC): National Airborne Operations Center, a militarized version of the Boeing 747-200, serves as a mobile command post in the event of national emergency or destruction of ground command centers.
+
+22. E-9A Widget: Airborne surveillance and range instrumentation platform used to monitor missile test ranges and provide telemetry data.
+
+23. E-11A (BACN): Battlefield Airborne Communications Node, providing communications relay and information gateway services across the battlespace.
+
+24. EA-37B Compass Call: Electronic attack aircraft designed to disrupt enemy command and control communications and limit adversary coordination.
+
+25. EC-130H Compass Call: Electronic warfare and aerial battlefield communications jamming aircraft based on the C-130 Hercules.
+
+26. EC-130J & Super-J: Advanced electronic warfare variants of the C-130J platform with enhanced electronic attack capabilities.
+
+27. F-117 Nighthawk: First operational stealth aircraft, now used in limited capacity for aggressor training and developmental testing despite official retirement.
+
+28. F-15C/D Eagle: Twin-engine, all-weather tactical fighter designed for air superiority, known for its exceptional maneuverability and acceleration.
+
+29. F-15E Strike Eagle: Dual-role fighter capable of engaging both ground and air targets, featuring advanced avionics and the capability to deploy a wide range of weapons.
+
+30. F-15EX Eagle II: Modern variant of the F-15 with advanced avionics, increased weapons capacity, and improved performance, designed to replace aging F-15C/D fleet.
+
+31. F-16C/D Fighting Falcon: Compact, multi-role fighter aircraft known for its agility and versatility in both air-to-air and air-to-ground missions.
+
+32. F-22A Raptor: Fifth-generation stealth tactical fighter with supercruise capability, thrust vectoring, and advanced avionics for air superiority missions.
+
+33. F-35A Lightning II: Fifth-generation stealth multirole fighter with advanced sensors and networking capabilities for air superiority and strike missions.
+
+34. HC-130J Combat King II: Extended-range search and rescue variant of the C-130J, equipped for personnel recovery missions in hostile environments.
+
+35. HH-60G/U Pave Hawk: Modified version of the UH-60 Black Hawk helicopter used for combat search and rescue missions in hostile environments.
+
+36. HH-60W Jolly Green II: Next-generation combat rescue helicopter replacing the HH-60G Pave Hawk, with increased range, survivability, and mission capability.
+
+37. KC-135R/T Stratotanker: Aerial refueling tanker aircraft derived from the Boeing 707, capable of providing in-flight refueling to military aircraft globally.
+
+38. KC-46A Pegasus: Multirole tanker transport aircraft based on the Boeing 767, providing aerial refueling and cargo transport capabilities.
+
+39. LC-130H Hercules: Ski-equipped variant of the C-130 designed for Arctic and Antarctic operations, capable of landing on snow and ice.
+
+40. MC-12W Liberty: Intelligence, surveillance, and reconnaissance aircraft used to support ground forces with real-time intelligence gathering.
+
+41. MC-130J Commando II: Special operations variant of the C-130J designed for clandestine infiltration, exfiltration, and resupply of special operations forces.
+
+42. MH-139A Grey Wolf: Military version of the AgustaWestland AW139 helicopter, replacing the UH-1N Huey for security and transport missions around missile bases.
+
+43. MQ-1B Predator: Medium-altitude, long-endurance unmanned aerial vehicle used for intelligence gathering and armed reconnaissance.
+
+44. MQ-9A Reaper: Larger, more capable successor to the MQ-1 Predator, designed for persistent surveillance and precision strike capabilities.
+
+45. BQM-167 Skeeter: Recoverable aerial target drone used to simulate enemy aircraft for weapons testing and combat training.
+
+46. P-9A Pale Ale: Maritime patrol aircraft used for counter-narcotics surveillance operations, operated by contractors under government ownership.
+
+47. QF-16A/C: Retired F-16 fighters converted to remote-controlled target drones for weapons testing and combat training.
+
+48. RC-135S/U/V/W Cobra Ball/Combat Sent/Rivet Joint: Family of reconnaissance aircraft used for intelligence collection, signals intelligence, and electronic surveillance.
+
+49. RQ-170 Sentinel: Unmanned aerial vehicle designed for stealth reconnaissance missions in contested airspace.
+
+50. RQ-20 Puma: Small, hand-launched unmanned aerial vehicle used for intelligence, surveillance, and reconnaissance in confined areas.
+
+51. RQ-4B Global Hawk: High-altitude, long-endurance unmanned aerial vehicle designed for near-real-time intelligence, surveillance, and reconnaissance.
+
+52. Unmanned Long-endurance Tactical Reconnaissance Aircraft: Advanced unmanned aerial platform designed for extended surveillance operations.
+
+53. T-1A Jayhawk: Twin-engine jet trainer used for advanced pilot training, particularly for students selected for airlift or tanker aircraft.
+
+54. T-38A/C/AT-38B Talon: Twin-engine supersonic jet trainer used for advanced pilot training and preparation for fighter aircraft.
+
+55. T-41D Mescalero: Single-engine piston aircraft used for primary flight training and screening of potential pilot candidates.
+
+56. T-51A Cessna: Basic flight training aircraft used for introductory pilot instruction and proficiency training.
+
+57. T-53A Kadet II: Light single-engine aircraft used for basic flight training at the U.S. Air Force Academy.
+
+58. T-6A Texan II: Single-engine turboprop aircraft used for primary pilot training for Air Force and Navy pilots.
+
+59. T-7 Red Hawk: Advanced jet trainer aircraft designed to replace the T-38 Talon for fighter and bomber pilot training.
+
+60. TC-135S/W: Training variant of the KC-135 used to train tanker crews in aerial refueling operations.
+
+61. TG-15A: Training glider used for cadet soaring instruction at the U.S. Air Force Academy.
+
+62. TG-15B: Enhanced variant of the TG-15A glider for advanced soaring instruction.
+
+63. TG-16A: Training glider used for cadet soaring and aerobatic instruction at the U.S. Air Force Academy.
+
+64. TG-17A: Advanced training glider used for advanced soaring techniques at the U.S. Air Force Academy.
+
+65. TH-1H Iroquois: Helicopter training variant of the UH-1 Huey used for basic and advanced helicopter pilot training.
+
+66. TU-2S Dragon Lady: Two-seat training variant of the U-2 reconnaissance aircraft used to train new U-2 pilots.
+
+67. U-2S Dragon Lady: High-altitude reconnaissance aircraft designed for intelligence gathering at extreme altitudes.
+
+68. U-28A Draco/PC-12: Light, fixed-wing utility and intelligence aircraft used by special operations forces for transport and reconnaissance.
+
+69. UH-1N Twin Huey/UH-1N Operational Support Airlift: Twin-engine utility helicopter used for VIP transport, security operations, and other support missions.
+
+70. UV-18B Twin Otter: Light transport aircraft used for parachute training at the U.S. Air Force Academy.
+
+71. VC-25A Air Force One: Highly modified Boeing 747-200B used as the primary presidential aircraft, featuring advanced communications and security systems.
+
+72. WC-130J Hercules: Weather reconnaissance aircraft, commonly known as "Hurricane Hunters," used to fly into tropical storms and hurricanes to gather meteorological data.
+
+73. WC-135R Constant Phoenix: Aircraft equipped with specialized sensors to detect and identify nuclear fallout and radiation in the atmosphere.
+
+74. X-62 VISTA: Experimental aircraft used as a variable stability in-flight simulator for developing advanced flight control systems and pilot training.
+
+75. CL-650 (ARTEMIS): Surveillance aircraft equipped with advanced sensors for intelligence, surveillance, and reconnaissance missions in contested environments.
+
+76. C-12J: Advanced variant of the C-12 Huron with upgraded engines and avionics for improved performance in utility transport roles.
+
+77. C-12D/R/U/V Huron: Family of military utility aircraft based on the Beechcraft King Air, used for personnel transport, cargo, and reconnaissance missions.
+
+78. C-20H: Military variant of the Gulfstream IV business jet used for VIP and executive transport of high-ranking officials.
+
+79. C-26E Metroliner: Military version of the Fairchild Metroliner, used for light transport, cargo, and utility missions.
+
+80. C-27J Spartan: Medium-sized tactical transport aircraft capable of operating from austere airfields, used for troop and cargo transport.
+
+81. C-41 Aviocar: Light transport aircraft used for short-haul utility transport and cargo missions in remote locations.
+
+82. EO-5: Electronic warfare and reconnaissance platform equipped with signals intelligence collection systems.
+
+83. MC/RC-12: Special mission variants of the C-12 Huron equipped for intelligence, surveillance, and reconnaissance missions.
+
+84. UC-35: Military version of the Cessna Citation business jet used for operational support airlift and priority personnel transport.
+
+85. C-37: Military designation for Gulfstream business jets (G500/G550) used for VIP and executive transport.
+
+86. RO-6A: Reconnaissance aircraft equipped with specialized sensors for intelligence collection and surveillance missions.
+
+87. UV-18C: Updated variant of the Twin Otter aircraft used by the Army Golden Knights parachute demonstration team.
+
+88. AH/MH-6M Little Bird: Light, highly maneuverable helicopter used by special operations forces for attack and transport missions.
+
+89. AH-64D/E Apache Longbow, Guardian: Advanced attack helicopter with all-weather capabilities, featuring sophisticated target acquisition and weapon systems.
+
+90. CH-47D/F Chinook: Heavy-lift, tandem rotor helicopter used for troop movement, artillery placement, and battlefield resupply missions.
+
+91. EH-60A Black Hawk: Electronic warfare variant of the UH-60 Black Hawk helicopter equipped for signals intelligence and electronic countermeasures.
+
+92. MH-47 Chinook: Special operations variant of the CH-47 Chinook with enhanced performance, avionics, and self-defense systems.
+
+93. MH-60 Black Hawk: Special operations variant of the UH-60 Black Hawk helicopter designed for clandestine infiltration and exfiltration missions.
+
+94. Mil Mi-8/Mi-17: Russian-designed medium twin-turbine transport helicopter used for training and familiarization with foreign equipment.
+
+95. Mil Mi-24: Russian-designed attack helicopter used for training and familiarization with potential adversary equipment.
+
+96. T-6D Texan II: Enhanced training variant of the T-6 Texan II with modernized avionics for advanced pilot instruction.
+
+97. UH-60 Black Hawk: Utility tactical transport helicopter used for air assault, medical evacuation, and general support operations.
+
+98. UH-72A/B Lakota: Light utility helicopter used for medical evacuation, personnel transport, and border security missions.
+
+99. MQ-1C Gray Eagle: Medium-altitude, long-endurance unmanned aircraft system designed for reconnaissance, surveillance, and target acquisition.
+
+100. Prioria Robotics Maveric: Small, portable unmanned aerial vehicle used for short-range reconnaissance and surveillance missions.
+
+101. CQ-10 Snowgoose: Unmanned parafoil or autogyro system designed for precise delivery of cargo to special operations forces.
+
+102. RQ-11 Raven: Small hand-launched unmanned aerial vehicle used for low-altitude surveillance and reconnaissance over short ranges.
+
+104. Black Hornet Nano: Ultra-compact micro unmanned aerial vehicle designed for close-range reconnaissance and situational awareness.
+
+105. HC-27J Spartan: Medium-range surveillance aircraft adapted for maritime patrol and search and rescue operations.
+
+106. C-37A: Military version of the Gulfstream V business jet used for VIP and executive transport within the Department of Homeland Security.
+
+107. C-37B: Updated version of the C-37A based on the Gulfstream 550 with enhanced range and capabilities for VIP transport.
+
+108. HC-130H Hercules: Long-range search and rescue variant of the C-130 Hercules with extended endurance and specialized equipment.
+
+109. HC-130J Hercules: Modernized search and rescue variant of the C-130J with enhanced performance and mission systems.
+
+110. HC-144A Ocean Sentry: Medium-range surveillance aircraft used for maritime patrol, drug interdiction, and search and rescue operations.
+
+111. HC-144B Minotaur: Upgraded version of the HC-144A with enhanced maritime domain awareness capabilities and integrated mission systems.
+
+112. MH-60T Jayhawk: Medium-range recovery helicopter used for search and rescue, law enforcement, and homeland security missions.
+
+113. MH-65D Dolphin: Short-range recovery helicopter used for search and rescue, law enforcement, and port security missions.
+
+114. MH-65E Dolphin: Modernized version of the MH-65D with glass cockpit and advanced mission systems for extended service life.
+
+115. C-20G: Specialized variant of the Gulfstream IV with increased cargo capacity and range for utility transport missions.
+
+116. C-40A Clipper: Military version of the Boeing 737-700C used for passenger and cargo transport with convertible cabin configuration.
+
+117. F/A-18A/B/C/D Hornet: Carrier-capable multirole fighter aircraft designed for air superiority and attack missions from aircraft carriers.
+
+118. F-35B/C Lightning II: Fifth-generation stealth multirole fighter with short takeoff/vertical landing (B variant) or carrier-based (C variant) capabilities.
+
+119. F-5F/N Tiger II: Lightweight supersonic fighter used as an adversary aircraft for combat training and aggressor squadron missions.
+
+120. KC-130J Super Hercules: Aerial refueling tanker and tactical transport aircraft capable of refueling helicopters and fixed-wing aircraft.
+
+121. UC-12W Huron: Updated variant of the C-12 with glass cockpit avionics and enhanced performance for utility transport missions.
+
+122. UC-12M Huron: Maritime patrol and utility transport variant of the C-12 with specialized mission equipment.
+
+123. UC-12F Huron: Older variant of the C-12 utility transport aircraft with analog cockpit systems.
+
+124. UC-35D Citation: Military version of the Cessna Citation business jet used for priority personnel transport and utility missions.
+
+125. AH-1Z Viper: Advanced attack helicopter with four-blade main rotor, enhanced sensors, and weapons systems for close air support.
+
+126. CH-53E Super Stallion: Heavy-lift helicopter used for transport of heavy equipment, vehicles, and troops in amphibious assault operations.
+
+127. CH-53K King Stallion: Next-generation heavy-lift helicopter with significantly enhanced lift capacity, range, and digital avionics.
+
+128. UH-1Y Venom: Modernized variant of the UH-1 Huey utility helicopter with four-blade main rotor and enhanced performance.
+
+129. VH-3D Sea King: Presidential transport helicopter used as Marine One for the transport of the President of the United States.
+
+130. VH-60N Whitehawk: Executive transport variant of the UH-60 Black Hawk used as part of the Marine One fleet.
+
+131. VH-92 Patriot: Next-generation presidential helicopter based on the Sikorsky S-92, replacing the VH-3D and VH-60N fleet.
+
+132. AV-8B/+ Harrier II: Vertical/short takeoff and landing (V/STOL) attack aircraft designed for close air support and strike missions.
+
+133. MV-22B Osprey: Marine Corps variant of the V-22 tiltrotor used for amphibious assault, raid operations, and cargo transport.
+
+134. K-MAX: Unmanned helicopter with intermeshing rotors designed for external cargo lift operations, particularly in hazardous environments.
+
+135. MQ-27: Unmanned aircraft system used for reconnaissance, surveillance, and intelligence collection missions.
+
+136. RQ-20 Puma: Small hand-launched unmanned aerial vehicle used for intelligence, surveillance, and reconnaissance at the tactical level.
+
+137. RQ-21A Blackjack: Small tactical unmanned aircraft system providing intelligence, surveillance, and reconnaissance support to marine expeditionary forces.
+
+138. MQ-8B Fire Scout: Unmanned autonomous helicopter providing reconnaissance, situational awareness, and precision targeting support.
+
+139. Black Hornet Nano: Pocket-sized micro unmanned aerial vehicle providing immediate situational awareness and reconnaissance capabilities.
+
+140. MQ-9 Reaper: Medium-altitude, long-endurance unmanned aerial vehicle equipped for persistent surveillance and precision strike missions.
+
+141. R80D SkyRaider: Tactical unmanned quadcopter designed for surveillance, reconnaissance, and situation awareness in battlefield environments.
+
+142. X2D: Small tactical unmanned aerial system providing enhanced situational awareness and reconnaissance capabilities at the squad level.
+
+143. T-34C Turbo Mentor: Single-engine turboprop training aircraft used for primary and intermediate flight training.
+
+144. C-130T Hercules: Tactical airlift variant of the C-130 Hercules used for troop, cargo, and equipment transport.
+
+145. C-130J Hercules: Modern variant of the C-130 transport aircraft with improved performance, digital avionics, and increased cargo capacity.
+
+146. UC-12 Huron: Military utility transport version of the Beechcraft King Air, used for passenger and light cargo transport.
+
+147. C-2A Greyhound: Carrier onboard delivery aircraft designed for logistics support to aircraft carriers, transporting personnel, mail, and cargo.
+
+148. C-20: Military designation for Gulfstream business jets used for executive transport and special missions.
+
+149. C-26D Metroliner: Military version of the Fairchild Metroliner commuter aircraft adapted for utility transport and light cargo missions.
+
+150. C-37: Military designation for Gulfstream business jets used for VIP and executive transport of high-ranking officials.
+
+151. C-40A Clipper: Navy version of the Boeing 737-700C used for fleet logistics support and passenger/cargo transport.
+
+152. E-2C/D Hawkeye: Carrier-based airborne early warning aircraft providing battle management, air and surface surveillance, and command and control.
+
+153. E-6B Mercury: Airborne command post and communications relay aircraft providing command and control of U.S. nuclear forces.
+
+154. EA-18G Growler: Electronic warfare variant of the F/A-18F Super Hornet designed to jam enemy radar and communications systems.
+
+155. EP-3E ARIES II: Signals intelligence aircraft used for electronic reconnaissance and surveillance in maritime environments.
+
+156. F-5F/N Tiger II: Lightweight tactical fighter used as adversary aircraft for Navy and Marine Corps combat air training.
+
+157. F-16 Fighting Falcon: Multirole fighter used by Navy for adversary training, simulating enemy aircraft tactics and capabilities.
+
+158. F/A-18A/B/C/D Hornet: Earlier generation of carrier-based multirole fighter aircraft used for training and fleet support.
+
+159. F/A-18E/F Super Hornet: Enlarged, more capable evolution of the F/A-18 Hornet, serving as the Navy's primary strike fighter.
+
+160. F-35C Lightning II: Carrier-capable variant of the F-35 with larger wings, stronger landing gear, and catapult launch capability.
+
+161. KC-130T: Aerial refueling tanker and tactical transport aircraft providing support to Navy and Marine Corps fixed and rotary-wing aircraft.
+
+162. MQ-4C Triton: High-altitude, long-endurance unmanned aircraft system providing real-time intelligence, surveillance, and reconnaissance over vast ocean areas.
+
+163. P-8A Poseidon: Maritime patrol and anti-submarine warfare aircraft based on the Boeing 737-800, replacing the P-3 Orion.
+
+164. T-6 Texan II: Single-engine turboprop used for primary flight training of Navy and Marine Corps pilots.
+
+165. T-44C Pegasus: Twin-engine, pressurized, fixed-wing trainer used for advanced multi-engine training.
+
+166. T-45C Goshawk: Carrier-capable jet trainer used to prepare Navy and Marine Corps pilots for jet aircraft and carrier operations.
+
+167. T-54A: Advanced multi-engine trainer replacing the T-44C, preparing pilots for larger, multi-engine aircraft operations.
+
+168. UC-35D: Military version of the Cessna Citation business jet used for priority personnel transport and operational support.
+
+169. CV/MV-22 Osprey: Tiltrotor aircraft combining helicopter and fixed-wing capabilities for amphibious assault, cargo transport, and special operations.
+
+170. MH-53E Sea Dragon: Heavy-lift helicopter specialized for airborne mine countermeasures and vertical onboard delivery to ships.
+
+171. MH-60 Seahawk: Maritime helicopter designed for anti-submarine warfare, anti-surface warfare, search and rescue, and vertical replenishment.
+
+172. TH-57B/C Sea Ranger: Training helicopter used for primary and intermediate rotary-wing pilot training for Navy, Marine Corps, and Coast Guard.
+
+173. TH-73A Thrasher: New-generation training helicopter replacing the TH-57 for Navy, Marine Corps, and Coast Guard pilot training.
+
+174. ScanEagle: Small, long-endurance unmanned aerial vehicle providing real-time intelligence, surveillance, and reconnaissance.
+
+175. RQ-21A Blackjack: Small tactical unmanned aircraft system providing intelligence, surveillance, and reconnaissance capabilities to naval expeditionary forces.
+
+176. MQ-8C Fire Scout: Larger, more capable version of the MQ-8B based on the Bell 407 helicopter airframe for extended range and payload capacity.
+
+177. X-37B: Reusable unmanned spacecraft designed for long-duration orbital missions and technology demonstration.
