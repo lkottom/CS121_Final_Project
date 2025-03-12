@@ -94,7 +94,7 @@ All customer accounts use the password: **password123**
 
 
 ## Manufacturer Accounts for Testing
-All manufacturer accounts use the password: **password123**
+All manufacturer/admin accounts use the password: **password123**
 
 These accounts can only log in to the admin application (`app_admin.py`):
 
